@@ -11,7 +11,7 @@ After the meeting, we provide you with test server credentials and configuration
 ## Configuration of the Sidebar Example
 
 Before you can run this example you need to configure some settings in these files:
-  * samples/client/config.js
+  * samples/config.js:
     * clientSignature
     * serverAddress
 
